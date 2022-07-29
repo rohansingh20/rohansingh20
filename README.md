@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sad napoleon
 
-Favorite quotes from the bois:
+Favorites from the bois:
 
 "Stanford is my saftey school"
 
