@@ -5,7 +5,7 @@ Most of my repo's are private
 "The best solution is to solve the problem"
 
 
-- website: https://sadnapoleon.netlify.app 
+- websites: https://rohansingh.vercel.app | https://sadnapoleon.netlify.app 
 - 📫 How to reach me rohansinghiscool@gmail.com
 
 <!---
