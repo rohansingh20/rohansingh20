@@ -3,7 +3,6 @@
 
 
 <b>Most of my repo's are private</b>
-<small>due to sensitive databases info and such</small>
 
 
 
