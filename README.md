@@ -4,6 +4,14 @@
 
 <b>Most of my repo's are private</b>
 
+```
+{
+  "firstName": "Rohan",
+  "lastName": "Singh",
+  "age": 16,
+}
+```
+
 
 
 - 💭 quote:
