@@ -1,14 +1,9 @@
-- 👋 Hi, I’m sad napoleon
+- 👋 Hey, I’m Rohan
 
-Favorites from the bois:
-
-"Stanford is my saftey school"
 
 "The best solution is to solve the problem"
 
-"ez dub"
 
-- 💞️ I’m looking to collaborate on big mega billion dollar project
 - website: https://sadnapoleon.netlify.app 
 - 📫 How to reach me rohansinghiscool@gmail.com
 
