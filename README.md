@@ -8,7 +8,6 @@
 {
   "firstName": "Rohan",
   "lastName": "Singh",
-  "age": 16,
 }
 ```
 
@@ -21,9 +20,7 @@
 ---
 
 - 🌐 websites:
-
-[Personal](https://rohansingh.vercel.app) || [SadNapoleon](https://sadnapoleon.netlify.app
-)
+--
 
 ---
 
