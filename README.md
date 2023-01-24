@@ -4,12 +4,7 @@
 
 <b>Most of my repo's are private</b>
 
-```
-{
-  "firstName": "Rohan",
-  "lastName": "Singh",
-}
-```
+
 
 
 
