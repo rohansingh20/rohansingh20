@@ -2,7 +2,7 @@
 
 
 
-<b>Most of my repo's are private</b>
+<b> private repo's</b>
 
 
 
