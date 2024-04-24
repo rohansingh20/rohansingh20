@@ -2,7 +2,7 @@
 
 
 
-<b>hundreds of private repos</b>
+<b>private repos</b>
 
 
 
